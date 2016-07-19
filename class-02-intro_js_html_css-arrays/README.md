@@ -31,14 +31,14 @@
   2. There are gaps, and omissions, and depth of the subject matter that need to be addressed.
   3. We're focusing on translating into "how we use this" and getting practice in applying this material within our new IDE (Integrated Development Environment) of Atom, Chrome, and the terminal.
 
-  **Learning Objectives**
+**Learning Objectives**
 
-  As a result of completing Day 2 of Code 201, students will:
+As a result of completing Day 2 of Code 201, students will:
 
-  - Demonstrate understanding of the fundamental structures of HTML, including \<DOCTYPE>, \<head>, \<title>, \<body>, and \<script>, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
-  - Demonstrate understanding of and make use of assorted data types such as booleans, strings, integers, floats in JavaScript, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
-  - Demonstrate understanding of and make use of introductory CSS concepts and techniques from Chapter 10 of the textbook, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
-  - Be able to successfully manage a code project in the command line by using Git branches and by doing pushes and pulls to/from a repository on GitHub.
+- Demonstrate understanding of the fundamental structures of HTML, including `<DOCTYPE>`, `<head>`, `<title>`, `<body>`, and `<script>`, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
+- Demonstrate understanding of and make use of assorted data types such as booleans, strings, integers, floats in JavaScript, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
+- Demonstrate understanding of and make use of introductory CSS concepts and techniques from Chapter 10 of the textbook, as measured by successful completion of the daily code assignment and a quiz administered in Canvas
+- Be able to successfully manage a code project in the command line by using Git branches and by doing pushes and pulls to/from a repository on GitHub.
 
 ## Readings
 
@@ -51,15 +51,7 @@
 [-top-](#top)
 
 <a id="html"></a>
-## HTML (with Sam)
-
-**HTML Chapter 1: "Structure"**
-
-- p.15: How pages use structure
-- p.20: HTML describes the structure of pages
-- pp.21-22: Tags as containers (great graphic page)
-- p.24: Tags
-- p.26: Attributes
+## HTML
 
 **HTML Chapter 2: "Text"**
 
@@ -68,37 +60,16 @@
 - p.49: visual editors (WYSIWYG)
 - lots of little text formatting pieces throughout the chapter (bold, italic, strong, emphasis, subscript, superscript, quotes, citations, etc.)
 
-**HTML Chapter 8: "Extra Markup"**
-
-- p.179: Evolution of HTML
-- p.181: Doctypes
-- p.182: Comments
-- p.183: Class & id attributes
-- p.185: Block vs. inline
-- p.191: Meta tags
-- p.193: Escape characters
-- p.194: Special characters
-
 **HTML Chapter 17: "HTML5 Layout"**
 
 - Semantic HTML
 - Traditional layout vs. HTML5
 - Header, footer, nav, aside, section, figure, div
 
-**HTML Chapter 18: "Process & Design"**
-
-- Things to think about when starting a project
-  - Who is the site for?
-  - User stories
-  - Sitemaps
-  - Wireframes
-- Visual hierarchy, grouping, navigation
-
-
 [-top-](#top)
 
 <a id="css"></a>
-## CSS (with Brian)
+## CSS
 
 **HTML Chapter 10: "Introducing CSS"**
 
@@ -111,7 +82,7 @@
 - p.242: Browser quirks
 
 <a id="js"></a>
-## JS (with Nick)
+## JS
 
 [-top-](#top)
 
@@ -139,17 +110,23 @@
 
 [-top-](#top)
 
+<a id="code"></a>
+## Learning Journal
+
+We will look at the sample learning journal in the class repository and learn about `git init`
+
+[-top-](#top)
 
 <a id="code"></a>
 ## Live code
 
 In our code demo today we'll be doing the following:
 
-- Create a GitHub repo for our weekly project
+- Create a GitHub repo for our weekly project and `git clone` it
 - Read through the lab assignment, translating it into a to-do list, and fulfill some technical components such as:
   1. Creating a basic scaffold for a code project
   2. Utilize `if/else` statements to handle conditional logic
   3. Add in some basic input validation
-  4. Utilize good Git processes including a-c-p cycles
+  4. Utilize good Git processes including **a-c-p** cycles
 
 [-top-](#top)
