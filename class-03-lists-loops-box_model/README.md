@@ -18,8 +18,8 @@
 
 **15 minute break**
 
-- [CSS Box Model](#box) *[45 minutes]*
-- [Git Branches & Lab Prep](#git) *[30 minutes]*
+- [CSS Box Model](#box) *[30 minutes]*
+- [Git Branches & Lab Prep](#git) *[45 minutes]*
 
 **Learning Objectives**
 
