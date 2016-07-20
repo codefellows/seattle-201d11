@@ -30,7 +30,6 @@ It can be very handy to take notes and sketch things out when you are planning y
 - Do not use any 'switch' statements in your JavaScript.
 - Do not write any functions in your JavaScript.
 - Expect that you will probably need both 'for' and 'while' structures for your sixth and seventh questions. But not necessarily.
-- Use separate Git branches for the coding of the sixth and seventh questions, plus the coding of the tally of correct answers. Upon completion of the work in each branch, make a Pull Request to the master branch and merge the branch without deleting the branch.
 
 ### Submitting Your Assignment
 
