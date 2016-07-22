@@ -16,8 +16,10 @@
 ### Today's Schedule
 - Quiz review and announcements [15 minutes]
 - [Instead of code review, a look at the readings and a smattering of topics](#smattering) *[75 minutes]*
+
 **break**
-- [Git Branching, including deployment (#git) *[30 minutes]*
+
+- [Git Branching, including deployment] (#git) *[30 minutes]*
 - [Lab Overview](#lab) *[45 minutes]*
 
 **Learning Objectives**
@@ -74,6 +76,7 @@ As a result of completing Day 5 of Code 201, students will:
 
 - Motherfu...
 - 'use strict'
+- W3 Schools vs. MDN vs Stack Overflow, etc.
 - Linter setups
 - Addition pimping of Atom (panes, pigments, etc.)
 - The increment operator
