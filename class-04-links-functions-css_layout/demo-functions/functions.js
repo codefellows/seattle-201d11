@@ -56,13 +56,13 @@ var toolOfDeath = 'candlestick';
 // What if we want the function to return information to the code that called it? For that, we use a 'return' statement.
 
 function mathsAreHard(numOne, numTwo, numThree) {
-  // console.log('numOne is ' + numOne);
-  // console.log('numTwo is ' + numTwo);
-  // console.log('numThree is ' + numThree);
+  // console.log('numOne is ', numOne);
+  // console.log('numTwo is ', numTwo);
+  // console.log('numThree is ', numThree);
   var sum = numOne + numTwo + numThree;
   // console.log('The sum of these numbers is ' + sum);
   return sum;
-  console.log('IF this shows I will give Munir $1000');
+  // console.log('IF this shows I will give Munir $1000');
 }
 
 // console.log(mathsAreHard(2, 5, 9));
@@ -94,14 +94,14 @@ var dan = 'schwartz'; // GLOBAL
 function fire() {
   var katie = 'kayeon'; // LOCAL VARIABLE
   console.log('katie\'s korean name is ' + katie);
-  console.log('dan\'s old name is ' + dan);
-  dan = 'dieter';
-  console.log('dan\'s new name is ' + dan);
-  // return dan;
+  console.log('dan\'s old global name is ' + dan);
+  var dan = 'dieter';
+  console.log('dan\'s new local name is ' + dan);
+  return 'THIS IS THE RETURN STATEMENT OUTPUT';
 }
-console.log('But, outside of the function, dan\s name is' + dan);
+console.log('But, outside of the function, dan\s name is ' + dan);
 
-function ice(snow) {  // PARAMETERS BEHAVE LIKE LOCALS
-  var t = 'yeah';    // LOCAL VARIABLE
-  return t;
-}
+// function ice(snow) {  // PARAMETERS BEHAVE LIKE LOCALS
+//   var t = 'yeah';    // LOCAL VARIABLE
+//   return t;
+// }
