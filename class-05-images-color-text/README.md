@@ -76,6 +76,7 @@ As a result of completing Day 5 of Code 201, students will:
 
 - Motherfu...
 - 'use strict'
+- W3 Schools vs. MDN vs Stack Overflow, etc.
 - Linter setups
 - Addition pimping of Atom (panes, pigments, etc.)
 - The increment operator
