@@ -16,7 +16,7 @@
 ### Today's Schedule
 - Quiz review and announcements [15 minutes]
 - [Instead of code review, a look at the readings and a smattering of topics](#smattering) *[75 minutes]*
-- 
+
 **break**
 
 - [Git Branching, including deployment] (#git) *[30 minutes]*
