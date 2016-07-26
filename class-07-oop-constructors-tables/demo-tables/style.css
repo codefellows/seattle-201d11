@@ -1,0 +1,13 @@
+table, td {
+	border: 1px solid black;
+}
+
+td {
+	padding: 10px;
+	border-radius: 15px;
+}
+
+th {
+	background-color: navy;
+	color: white;
+}
