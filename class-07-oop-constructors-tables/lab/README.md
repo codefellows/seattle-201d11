@@ -37,7 +37,7 @@ What numbers should go into a table? Your client, Pat, has reviewed the lists of
 
 ## Technical Requirements
 - Good use of a constructor function; style and syntax are correctly implemented
-- Each cookie stand location should have its own render() method (in other words, as part of the constructor) that creates and appends its row to the table
+- Each cookie stand location should have a separate render() method that creates and appends its row to the table
 - The header row and footer row are each created in their own stand-alone function
 - Duplicate code has been removed and DRY principles are evident
 - Working on a non-master branch for the day, with regular commit history. Basically, every time you get something to work, you should do a commit. But you only need to push every couple of hours or so, tops.
@@ -45,4 +45,4 @@ What numbers should go into a table? Your client, Pat, has reviewed the lists of
 ## User Stories (Stretch... NOT REQUIRED)
 - As a developer, I will continue to work on design aspects of the public-facing page.
 - As a developer, to facilitate design work, I will build a style guide.
-- As a developer, to demonstrate to my client my ability to add value, I will create a second table that will help Jo manage staffing. Using the basic rubric that single Cookie Slinger can serve 20 customers per hour, and that each location should have a minimum of two Cookie Sligers on shift at all times, calculate how many Cookie Slingers are needed at each location each hour.
+- As a developer, to demonstrate to my client my ability to add value, I will create a second table that will help Jo manage staffing. Using the basic rubric that single Cookie Tosser can serve 20 customers per hour, and that each location should have a minimum of two Cookie Tossers on shift at all times, calculate how many Cookie Tossers are needed at each location each hour.
