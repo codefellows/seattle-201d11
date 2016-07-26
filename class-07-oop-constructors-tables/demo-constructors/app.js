@@ -40,6 +40,8 @@ var lee = new Student('Lee', 'B', 42); //eslint-disable-line
 var michael = new Student('Michael', 'M', 48); //eslint-disable-line
 var sera = new Student('Sera', 'S', 37); //eslint-disable-line
 
+//DID SOME CODEZ
+
 function listStudents() {
   // get a grip on the <ol> in the HTML
   var studentList = document.getElementById('students');
@@ -55,4 +57,3 @@ function listStudents() {
 }
 
 listStudents();
->>>>>>> 1926251e5ea091005e42fe3812bbe90a9ac35d0e
