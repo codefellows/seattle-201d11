@@ -45,4 +45,4 @@ What numbers should go into a table? Your client, Pat, has reviewed the lists of
 ## User Stories (Stretch... NOT REQUIRED)
 - As a developer, I will continue to work on design aspects of the public-facing page.
 - As a developer, to facilitate design work, I will build a style guide.
-- As a developer, to demonstrate to my client my ability to add value, I will create a second table that will help Jo manage staffing. Using the basic rubric that single Cookie Tosser can serve 20 customers per hour, and that each location should have a minimum of two Cookie Tossers on shift at all times, calculate how many Cookie Tossers are needed at each location each hour.
+- As a developer, to demonstrate to my client my ability to add value, I will create a second table that will help Jo manage staffing. Using the basic rubric that single Salmon Cookie Tosser can serve 20 customers per hour, and that each location should have a minimum of two Salmon Cookie Tossers on shift at all times, calculate how many Salmon Cookie Tossers are needed at each location each hour.
