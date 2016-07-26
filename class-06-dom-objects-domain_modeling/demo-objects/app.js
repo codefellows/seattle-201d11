@@ -12,6 +12,7 @@ console.log('myObject is', myObject);
 
 var emptyObject = {};
 var oneLineObject = { a: 1, b: 2 };
+console.log(oneLineObject);
 
 var genericObject = {
   key1: 'value1',
@@ -51,7 +52,6 @@ sam.logName = function() {
 
 sam.whatIsThis = function() {
   console.log(this);
-  console.dir(this);
 };
 
 sam.whatIsThis(); //logs the sam object
