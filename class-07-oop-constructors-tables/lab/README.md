@@ -10,7 +10,7 @@ Your code will end up with probably 1/4 the number of lines it had before refact
 
 See pages 106-109 in your textbook for a constructor example... and especially focus on 108 and 109. Also refer to the demo code from class that showed how we can view a constructor function as a translation of an object literal.
 
-## Replace the Lists with A Table
+## Replace the Lists with a Table
 
 We will also be replacing the lists of data for each store, and building a **single table of data** instead! Tables are much easier to read than lists, and presenting data in a table makes analysis more intuitive and comprehensive.
 
