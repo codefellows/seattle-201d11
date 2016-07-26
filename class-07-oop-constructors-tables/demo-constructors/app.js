@@ -18,3 +18,5 @@ var britt = {
 // What if... I had a function to make these many similar objects for me? A function where I could pass in a student's unique characteristics as arguments, and then that function would make the individual objects?
 
 var mahClass = [];
+
+//DID SOME CODEZ
