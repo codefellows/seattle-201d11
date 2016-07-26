@@ -42,6 +42,8 @@ var sera = new Student('Sera', 'S', 37); //eslint-disable-line
 
 //DID SOME CODEZ
 
+// PLEASE MAKE ERROR FOR ME
+
 function listStudents() {
   // get a grip on the <ol> in the HTML
   var studentList = document.getElementById('students');
