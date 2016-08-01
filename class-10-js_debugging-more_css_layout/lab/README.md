@@ -9,7 +9,6 @@ In lab today you will be building a single webpage based off of the provided des
 
 This will be a pair-programming project, and you are free to set up whatever workflow you choose with your partner. There are multiple approaches that you can take:
 
-- Both of you work on one computer the whole time
 - For the initial "getting things entered" phase work independently, for instance one of you gets the images linked in and the layout roughed out, and the other gets all of the text typed in. If you take this approach, make it easier on yourself by segregating the two work processes into totally separate areas of the HTML so that you do not step on each other's toes and cause merge conflicts
 - Maybe you split the work by each of you building a different section of the page that you can then unify later.
 - Or maybe you use some other approach that you come up with on your own
