@@ -1,6 +1,6 @@
-/** {
+* {
   border: 1px dotted orange;
-  }*/
+  }
 
 body {
   font-family: Helvetica, sans-serif;
@@ -20,5 +20,5 @@ button {
 }
 
 canvas {
-  /*outline: 2px solid black;*/
+  outline: 2px solid black;
 }
