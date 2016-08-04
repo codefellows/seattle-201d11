@@ -47,7 +47,7 @@ Let's describe how a pretend team would get into that situation and then extrica
 
 Our sample team has four members: Bob, Carol, Ted, and Alice. Add a file called `FUBAR.md` to the `master` branch of the repo you've been working on in lab. When we start, everyone is totally in sync and freshly pulled from `master` on their individual laptops, and has `FUBAR.md`. Bob and Carol are pair-programming one feature on Carol's laptop in a new feature branch, and Ted and Alice are working on another feature in a different non-master feature branch on Ted's laptop, also in `FUBAR.md`.
 
-Assign a member of your team to each character, and then do what they do. And do ONLY what they do.
+Assign a member of your team to each character, and then do what they do. And do ONLY what they do. *[Teams with only 3 people can just ignore Alice, since she only acts as a partner to either Bob or Ted.]*
 
 For the purposes of this exercise, the work you're doing on a feature consists of adding a sentence or two of "This is what Bob & Carol did on Bob's computer when working on the first feature" and maybe a joke or something to keep your teammates amused.
 
