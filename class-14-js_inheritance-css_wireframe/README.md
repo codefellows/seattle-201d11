@@ -1,4 +1,4 @@
-# Class 14: Advanced JS Topics and CSS Animations
+# Class 14: Advanced JS Topics and CSS Wireframes
 
 <a id="top"></a>
 # Today's Plan: Week 3, Thursday Lecture
@@ -7,7 +7,7 @@
 
 #### Quiz 8 will be published this afternoon, and will be due at 11:59pm tomorrow (Friday) night.
 
-#### The entrance exam (and our final exam) will be published tomorrow (Friday) afternoon and will be due at 11:59pm on Monday 8/8.
+#### The entrance exam (and our final exam) will be published tomorrow (Friday) afternoon and will be due at 11:59pm on Sunday 8/7.
 
 - Announcements
   - Project Week is almost here!!!
