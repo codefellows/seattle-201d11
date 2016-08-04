@@ -88,12 +88,12 @@ On Monday morning, before noon, each team will meet with the instructional staff
 
 ## Four Teams of the Apocalypse
 
-DEATH:
+DEATH: Maelle, Rachel, Judy
 
-FAMINE:
+FAMINE: Bronwyn, Keith, Jon
 
-WAR:
+WAR: Britt, Fiona, Brittney
 
-CONQUEST:
+CONQUEST: Lee, Adrian, Ty, Sera
 
 [-top-](#top)
