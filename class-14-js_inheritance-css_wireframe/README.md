@@ -84,7 +84,6 @@ On Monday morning, before noon, each team will meet with the instructional staff
 **A:** Google Docs is a good way to collaborate on text-based content like lists, outlines, descriptions, etc. For wireframes, hand-sketched documents are fine. There are computer-based wireframe tools, but then there is the headache of learning the tool.
 
 ## Project Pitches
-*We'll capture the project pitches here.*
 
 ## Four Teams of the Apocalypse
 
