@@ -13,10 +13,10 @@
   - 11:00a this morning, we'll go watch the final project presentations for the current Code 301 class.
   - Reminder: weekly surveys will go out to students today. Thank you for your feedback!
   - We're officially in Project Week as of noon today!!!
-  - There is a blackout window on submitting classwork during Project Week. In other words, you should be 100% focused on your project for the next week. The exceptions to that are the final BusMall submission and the 301 exam, each of which is due at 11:59pm Monday 7/4. But for the rest of the week, do not spend energy on catching up on past assignments.
-  - You'll have one week after project presentations to turn in any lingering late work. The deadline for that will be Friday 7/15 at 11:59pm.
+  - There is a blackout window on submitting classwork during Project Week. In other words, you should be 100% focused on your project for the next week. The exceptions to that are the final BusMall submission and the 301 exam, each of which is due at 11:59pm Sunday 8/7. But for the rest of the week, do not spend energy on catching up on past assignments.
+  - You'll have one week after project presentations to turn in any lingering late work. The deadline for that will be Friday 8/19 at 11:59pm.
   - The instruction staff will go into the gradebook and "zero out" any previously unsubmitted assignments this weekend. This is just an administrative step to show you exactly where you stand if you do not submit any additional assignments or do any resubmits of previous assignments.
-  - Remember that each team will be expected to do a 5-10 minute standup meeting at the beginning of each day. Those will begin on Tuesday morning. No set time, just when your team is assembled and the instructional staff are free.
+  - Remember that each team will be expected to do a 5-10 minute standup meeting at the beginning of each day. Those will begin on Monday morning. No set time, just when your team is assembled and the instructional staff are free.
 
 - [Final Project Overview/Reminders/Discussion](#project) *[30-45 minutes]*
 
