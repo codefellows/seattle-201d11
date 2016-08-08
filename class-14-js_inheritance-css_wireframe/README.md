@@ -87,12 +87,23 @@ On Monday morning, before noon, each team will meet with the instructional staff
 
 ## Four Teams of the Apocalypse
 
-DEATH: Maelle, Rachel, Judy
+###DEATH: Maelle, Rachel, Judy
 
-FAMINE: Bronwyn, Keith, Jon
+- Web app to allow parent to take a autism risk test
+- Beyond providing score, provide resources
 
-WAR: Britt, Fiona, Brittney
+###FAMINE: Bronwyn, Keith, Jon
 
-CONQUEST: Lee, Adrian, Ty, Sera
+- Lunch date app to connect with another person, pick meeting places
+
+###WAR: Britt, Fiona, Brittney
+
+- Sorta kinda maybe a game. War! What is it good for? Absolutely nothin'!
+- PPL matchup via skillsets.
+- "Assemble your crew"
+
+###CONQUEST: Lee, Adrian, Ty, Sera
+
+- A MUD-style adventure game a la Zork. Don't want to spoil the theme.
 
 [-top-](#top)
